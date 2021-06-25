@@ -10,17 +10,17 @@ class Result extends StatelessWidget {
   String get resultPhrase {
     String resultText;
     if (resultScore >= 41) {
-      resultText = 'You are awesome!';
+      resultText = 'Harika!';
       print(resultScore);
     } else if (resultScore >= 31) {
-      resultText = 'Pretty likeable!';
+      resultText = 'iyi!';
       print(resultScore);
     } else if (resultScore >= 21) {
-      resultText = 'You need to work more!';
+      resultText = 'Biraz çalış!';
     } else if (resultScore >= 1) {
-      resultText = 'You need to work hard!';
+      resultText = 'Biraz çalış!';
     } else {
-      resultText = 'This is a poor score!';
+      resultText = 'kötüflf!';
       print(resultScore);
     }
     return resultText;

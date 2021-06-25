@@ -37,32 +37,32 @@ class _SinavBaslangicState extends State<SinavBaslangic> {
       ],
     },
     {
-      'questionText': ' Q3. Which programing language is used by Flutter',
+      'questionText': ' Türkiye kaç bölgeden oluşur',
       'answers': [
-        {'text': 'Ruby', 'score': -2},
-        {'text': 'Dart', 'score': 10},
-        {'text': 'C++', 'score': -2},
-        {'text': 'Kotlin', 'score': -2},
+        {'text': '6', 'score': -2},
+        {'text': '7', 'score': 10},
+        {'text': '9', 'score': -2},
+        {'text': '8', 'score': -2},
       ],
     },
     {
-      'questionText': 'Q4. Who created Dart programing language?',
+      'questionText': 'Konya plaka kodu',
       'answers': [
-        {'text': 'Lars Bak and Kasper Lund', 'score': 10},
-        {'text': 'Brendan Eich', 'score': -2},
-        {'text': 'Bjarne Stroustrup', 'score': -2},
-        {'text': 'Jeremy Ashkenas', 'score': -2},
+        {'text': '42', 'score': 10},
+        {'text': '41', 'score': -2},
+        {'text': '24', 'score': -2},
+        {'text': '43', 'score': -2},
       ],
     },
     {
       'questionText':
-          'Q5. Is Flutter for Web and Desktop available in stable version?',
+          'Konya ili Marmara Bölgesindedir?',
       'answers': [
         {
-          'text': 'Yes',
+          'text': 'Evet',
           'score': -2,
         },
-        {'text': 'No', 'score': 10},
+        {'text': 'Hayır', 'score': 10},
       ],
     },
   ];
